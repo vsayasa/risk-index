@@ -9,6 +9,10 @@
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {
+    "@arcgis/core": "^5.0.19",
+    "@arcgis/map-components": "^5.0.19",
+    "@esri/arcgis-html-sanitizer": "^4.1.0",
+    "@esri/calcite-components": "^5.0.2",
     "@react-router/node": "7.13.2",
     "@react-router/serve": "7.13.2",
     "isbot": "^5.1.36",
